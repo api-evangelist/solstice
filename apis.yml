@@ -30,6 +30,9 @@ description: Solstice is a community solar platform that lets households, renter
   for solar developers and asset owners. Surfaced as a Techstars portfolio company and added to the API
   Evangelist network; no public API surface was found during enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/solstice/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Surfaced as a Techstars portfolio company and added to the API Evangelist network; no public API surface was found during enrichment."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
